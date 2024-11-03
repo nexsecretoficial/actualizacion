@@ -125,7 +125,7 @@ if (!isCmd && isGrupo) console.log(
 switch (comando) {
 
 case 'ping':
-enviar('Pong! aaaaa');
+enviar('Pong! aaaa');
 break
   
 default:
